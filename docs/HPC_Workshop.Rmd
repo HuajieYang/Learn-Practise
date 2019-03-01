@@ -20,7 +20,7 @@ High performance comuting workshop
 * cyberduck: SFTP is preferred 
  
 * X11 forward  
-  putty > connection > X11 > enable X11 forwarding. After enabling X11 forarding, it allows interactive session. oit
+  putty > connection > X11 > enable X11 forwarding. After enabling X11 forarding, it allows interactive session
  
 * emial 
  oit-rc-group <oit-rc-group@pdx.edu> 
@@ -29,5 +29,7 @@ High performance comuting workshop
 define worrds 
 
 * distributed computing: multiple comuters (nodes)
+  I may need to use R MRI to do distributed computing.
+  
 * parallel comupting: multiple cores
-* module evail 
+* module evail 2 > & 1 | grep /module load 
